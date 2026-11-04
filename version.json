@@ -1,5 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "2.5.2",
-  "apk": "https://dark-on-matrix.github.io/DarkOnTop.apk"
+  "versionCode": 10,
+  "versionName": "2.6.0",
+  "url": "https://dark-on-matrix.github.io/DarkOnTop.apk",
+  "note": "Novità: avviso di aggiornamento automatico, finestra col canale attivo e ultimo canale all'avvio."
 }
