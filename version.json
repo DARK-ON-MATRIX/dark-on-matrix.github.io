@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "2.7.0",
+  "versionCode": 15,
+  "versionName": "2.7.1",
   "url": "https://dark-on-matrix.github.io/DarkOnTop.apk",
-  "note": "Finestra grande con guida programmi, schermo intero più chiaro e nomi lunghi con i puntini."
+  "note": "Tolti i testi di aiuto sotto la finestra e nella domanda di uscita."
 }
