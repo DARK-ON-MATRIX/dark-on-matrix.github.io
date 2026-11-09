@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "2.8.0",
+  "versionCode": 18,
+  "versionName": "2.8.1",
   "url": "https://dark-on-matrix.github.io/DarkOnTop.apk",
-  "note": "Nuova intro all'apertura, nuova icona e nuovo sfondo."
+  "note": "Dimensione delle scritte regolabile (Grande, Media, Piccola) dalla schermata Account: più canali e gruppi visibili."
 }
