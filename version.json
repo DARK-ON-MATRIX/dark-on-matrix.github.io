@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "2.8.1",
+  "versionCode": 19,
+  "versionName": "2.8.2",
   "url": "https://dark-on-matrix.github.io/DarkOnTop.apk",
-  "note": "Dimensione delle scritte regolabile (Grande, Media, Piccola) dalla schermata Account: più canali e gruppi visibili."
+  "note": "Schermata Account: logo a lato, elenco account sempre visibile e pulsanti compatti sul telefono."
 }
