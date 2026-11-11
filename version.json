@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "2.8.2",
+  "versionCode": 20,
+  "versionName": "2.9.0",
   "url": "https://dark-on-matrix.github.io/DarkOnTop.apk",
-  "note": "Schermata Account: logo a lato, elenco account sempre visibile e pulsanti compatti sul telefono."
+  "note": "Stato degli account (online/offline, connessioni in uso e scadenza) e nuovo tema oro, selezionabile dalla schermata Account."
 }
