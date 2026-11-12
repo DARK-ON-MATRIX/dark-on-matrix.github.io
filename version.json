@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "versionName": "3.3.0",
+  "versionCode": 27,
+  "versionName": "3.6.0",
   "url": "https://dark-on-matrix.github.io/DarkOnTop.apk",
-  "note": "Supporto account Stalker/MAG con portale e indirizzo MAC.\nCaricamento dei canali MAG con handshake, token e riproduzione autenticata.\nCaricamento di film e serie dal portale MAG.\nNuova visualizzazione a griglia con locandine per Film e Serie.\nLayout Film/Serie allineato a DLPonTOP: categorie laterali e cinque locandine affiancate.\nFilm, serie, griglia, trame e aggiornamenti automatici mantenuti."
+  "note": "Supporto account Stalker/MAG con portale e indirizzo MAC.\nCaricamento dei canali MAG con handshake, token e riproduzione autenticata.\nCaricamento di film e serie dal portale MAG.\nNuova visualizzazione a griglia con locandine per Film e Serie.\nLayout Film/Serie allineato a DLPonTOP: categorie laterali e cinque locandine affiancate.\nCorretto il caricamento VOD e Serie dai portali Stalker/MAG.\nLayout Live Xtream/MAG ripristinato come prima; griglia applicata solo a Film e Serie.\nRipristinato il contenitore elenco originale per Live, mantenendo invariati schermo e anteprima.\nFilm, serie, griglia, trame e aggiornamenti automatici mantenuti."
 }
