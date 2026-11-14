@@ -1,6 +1,6 @@
 {
-  "versionCode": 36,
-  "versionName": "3.9.6",
+  "versionCode": 37,
+  "versionName": "3.9.7",
   "url": "https://dark-on-matrix.github.io/DarkOnTop.apk",
-  "note": "Nuova versione 3.9.6: sistemato il pannello dei dettagli in Film e Serie.\nPassando da Live a Film o Serie non resta più il nome dell'ultimo canale guardato: compare \"Seleziona un titolo\" finché non scegli un film o una serie."
+  "note": "Nuova versione 3.9.7: guida programmi anche per i portali Stalker/MAG.\nRiquadro \"Ora in onda\", barra di avanzamento e prossimi programmi, se il portale li fornisce.\nCaricamento di Film e Serie MAG più veloce e più stabile: le pagine si scaricano in parallelo e quelle che falliscono vengono riprovate.\nSistemato il blocco dell'app durante il caricamento e l'avvio dei canali MAG."
 }
