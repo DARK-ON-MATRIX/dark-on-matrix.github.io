@@ -1,6 +1,6 @@
 {
-  "versionCode": 35,
-  "versionName": "3.9.5",
+  "versionCode": 36,
+  "versionName": "3.9.6",
   "url": "https://dark-on-matrix.github.io/DarkOnTop.apk",
-  "note": "Nuova versione 3.9.5: Film e Serie dei portali Stalker/MAG ora completi.\nVengono caricate tutte le pagine del catalogo, non solo la prima.\nGli episodi delle serie si aprono e partono; le categorie di canali, film e serie sono mostrate con il loro nome.\nTrama, anno e genere compaiono subito nel pannello dei dettagli."
+  "note": "Nuova versione 3.9.6: sistemato il pannello dei dettagli in Film e Serie.\nPassando da Live a Film o Serie non resta più il nome dell'ultimo canale guardato: compare \"Seleziona un titolo\" finché non scegli un film o una serie."
 }
