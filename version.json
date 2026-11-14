@@ -1,6 +1,6 @@
 {
-  "versionCode": 30,
-  "versionName": "3.9.0",
+  "versionCode": 31,
+  "versionName": "3.9.1",
   "url": "https://dark-on-matrix.github.io/DarkOnTop.apk",
-  "note": "Supporto account Stalker/MAG con portale e indirizzo MAC.\nCaricamento dei canali MAG con handshake, token e riproduzione autenticata.\nCaricamento di film e serie dal portale MAG.\nNuova visualizzazione a griglia con locandine per Film e Serie.\nLayout Film/Serie allineato a DLPonTOP: categorie laterali e cinque locandine affiancate.\nCorretto il caricamento VOD e Serie dai portali Stalker/MAG.\nLayout Live Xtream/MAG ripristinato come prima; griglia applicata solo a Film e Serie.\nFilm e Serie ora occupano tutto lo schermo con la griglia a locandine, senza pannello anteprima laterale.\nArresto corretto del player passando da Live a Film o Serie.\nAggiornati gli header e il token MAG prima dell'apertura dello stream.\nVolume del player inizializzato correttamente per gli stream MAG.\nRipristinato il contenitore elenco originale per Live, mantenendo invariati schermo e anteprima.\nFilm, serie, griglia, trame e aggiornamenti automatici mantenuti."
+  "note": "Nuova versione 3.9.1: migliorata la visualizzazione di Film e Serie.\nLocandine con larghezza adattiva per adattarsi meglio a TV e schermi di dimensioni diverse.\nAltezza delle locandine ridimensionata in base allo spazio verticale disponibile.\nImmagini delle locandine visualizzate con proporzioni corrette e senza deformazioni.\nAggiunto il pannello dettagli in stile piattaforme streaming per Film e Serie.\nQuando selezioni un titolo vengono mostrati titolo, anno, genere, valutazione e trama, se forniti dal catalogo Xtream.\nI dettagli vengono caricati dal catalogo Xtream quando disponibili; per contenuti senza descrizione viene indicato che la trama non è disponibile.\nMantenuti il sistema di aggiornamento automatico e il flusso di pubblicazione GitHub esistente."
 }
