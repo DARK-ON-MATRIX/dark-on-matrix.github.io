@@ -1,6 +1,6 @@
 {
-  "versionCode": 38,
-  "versionName": "3.9.8",
+  "versionCode": 39,
+  "versionName": "3.9.9",
   "url": "https://dark-on-matrix.github.io/DarkOnTop.apk",
-  "note": "Nuova versione 3.9.8: Film e Serie dei portali MAG molto più veloci.\nSi vedono subito le categorie e i titoli si scaricano solo quando ne apri una, invece di scaricare tutto il catalogo (prima più di 5 minuti, a volte con errore).\nLa ricerca interroga direttamente il portale.\nGli episodi di una serie si aprono in pochi secondi e la finestra non compare più se nel frattempo hai cambiato scheda.\nStagioni indicate come \"Stagione\"."
+  "note": "Nuova versione 3.9.9: categorie di Film e Serie MAG più affidabili.\nAprendo una categoria compare \"Carico...\" e i titoli appaiono da soli appena arrivano, senza dover tornare indietro.\nScorrendo l'elenco delle categorie non si scaricano più tutte quelle che superi: parte solo quella su cui ti fermi.\nSe il portale risponde vuoto, l'app riprova una seconda volta."
 }
