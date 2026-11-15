@@ -1,6 +1,6 @@
 {
-  "versionCode": 39,
-  "versionName": "3.9.9",
+  "versionCode": 41,
+  "versionName": "3.9.11",
   "url": "https://dark-on-matrix.github.io/DarkOnTop.apk",
-  "note": "Nuova versione 3.9.9: categorie di Film e Serie MAG più affidabili.\nAprendo una categoria compare \"Carico...\" e i titoli appaiono da soli appena arrivano, senza dover tornare indietro.\nScorrendo l'elenco delle categorie non si scaricano più tutte quelle che superi: parte solo quella su cui ti fermi.\nSe il portale risponde vuoto, l'app riprova una seconda volta."
+  "note": "Nuova versione 3.9.11: titoli, anno e voto più puliti per tutti gli account (Xtream, M3U e MAG).\nIn Film e Serie le etichette tecniche come [720p.CAM] non compaiono più nei titoli (resta (CAM) se la copia è scadente), l'anno è senza giorno e il voto ha un decimale."
 }
