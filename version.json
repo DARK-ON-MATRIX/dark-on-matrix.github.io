@@ -1,6 +1,6 @@
 {
-  "versionCode": 41,
-  "versionName": "3.9.11",
+  "versionCode": 42,
+  "versionName": "4.0",
   "url": "https://dark-on-matrix.github.io/DarkOnTop.apk",
-  "note": "Nuova versione 3.9.11: titoli, anno e voto più puliti per tutti gli account (Xtream, M3U e MAG).\nIn Film e Serie le etichette tecniche come [720p.CAM] non compaiono più nei titoli (resta (CAM) se la copia è scadente), l'anno è senza giorno e il voto ha un decimale."
+  "note": "Dark on Top 4.0 - Blue Edition\n• Nuova grafica blu: sfondi, logo, banner e icona rinnovati\n• Phone Connect: aggiungi la lista dal telefono inquadrando il QR\n• Film e Serie: 5 locandine per riga, a tutta larghezza\n• Schede e selezione col telecomando più luminose"
 }
