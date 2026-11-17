@@ -1,6 +1,6 @@
 {
-  "versionCode": 44,
-  "versionName": "4.2",
+  "versionCode": 45,
+  "versionName": "4.3",
   "url": "https://dark-on-matrix.github.io/DarkOnTop.apk",
-  "note": "Dark on Top 4.2 - Blue Edition\n• Player: nuovi pulsanti Audio, Sottotitoli, EPG/Trama e Preferiti\n• Scelta della lingua audio e dei sottotitoli per film e serie\n• Film e Serie: trama sotto le locandine e scheda completa (tasto INFO o tocco sul riquadro)\n• Telecomando: nel player premi OK due volte per entrare nei pulsanti"
+  "note": "Dark on Top 4.3 - Blue Edition\n• Player: i pulsanti Audio, Sottotitoli, EPG/Trama e Preferiti ora si raggiungono col telecomando (premi OK due volte)\n• Live: tolta la trama lunga dal pannello, la guida completa è nel pulsante EPG\n• Il titolo non finisce più sotto i pulsanti"
 }
