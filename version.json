@@ -1,6 +1,6 @@
 {
-  "versionCode": 43,
-  "versionName": "4.1",
+  "versionCode": 44,
+  "versionName": "4.2",
   "url": "https://dark-on-matrix.github.io/DarkOnTop.apk",
-  "note": "Dark on Top 4.1 - Blue Edition\n• Nuova grafica Blue Edition: logo, sfondo, icona e banner Dark on Top in blu ghiaccio\n• Schermata Account rifatta: menu a sinistra, schede blu a destra\n• Phone Connect: aggiungi la lista dal telefono inquadrando il QR\n• Film e Serie: 5 locandine per riga, a tutta larghezza\n• Pulsanti, schede e finestre più grandi e luminose"
+  "note": "Dark on Top 4.2 - Blue Edition\n• Player: nuovi pulsanti Audio, Sottotitoli, EPG/Trama e Preferiti\n• Scelta della lingua audio e dei sottotitoli per film e serie\n• Film e Serie: trama sotto le locandine e scheda completa (tasto INFO o tocco sul riquadro)\n• Telecomando: nel player premi OK due volte per entrare nei pulsanti"
 }
