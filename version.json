@@ -1,6 +1,6 @@
 {
-  "versionCode": 47,
-  "versionName": "4.5",
+  "versionCode": 48,
+  "versionName": "4.6",
   "url": "https://dark-on-matrix.github.io/DarkOnTop.apk",
-  "note": "Dark on Top 4.5 - Blue Edition\n• Player live: una sola riga con Audio, Sottotitoli, EPG/Trama e Preferiti, come in DLPonTOP\n• Film e Serie: la riga con chiudi, -10s, +10s e episodio precedente/successivo resta sotto\n• Pannello info più ordinato: Ora e Dopo con gli orari"
+  "note": "Dark on Top 4.6 - Blue Edition\n• Continua a guardare: film ed episodi ripartono da dove li avevi lasciati\n• Nuove voci \"Continua a guardare\" e \"Cronologia\" in Live, Film e Serie\n• Prossimo episodio: conto alla rovescia negli ultimi secondi, OK per passare subito\n• Ricorda la lingua audio e dei sottotitoli scelta\n• Icone dell'app per tutti gli schermi\n• Account: nuovo pulsante \"Cancella cronologia\""
 }
