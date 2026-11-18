@@ -1,6 +1,6 @@
 {
-  "versionCode": 49,
-  "versionName": "4.7",
+  "versionCode": 51,
+  "versionName": "4.9",
   "url": "https://dark-on-matrix.github.io/DarkOnTop.apk",
-  "note": "Dark on Top 4.7 - Blue Edition\n• Nuova Home: menu laterale, orologio e \"Continua a guardare\" in evidenza\n• Scaffali con canali recenti, film e serie visti, preferiti\n• Dalla lista, Indietro torna alla Home\n• Menu Home: Live TV, Film, Serie TV, Preferiti, Cerca, Account, Phone Connect"
+  "note": "Dark on Top 4.9 - Blue Edition\n• Film e Serie: riga con minuti e secondi, tempo che manca e ora di fine, con barra da toccare per spostarti\n• Live: se un canale non parte prova da solo l'altro formato (.ts / .m3u8) e lo ricorda per tutta la lista\n• Nomi degli episodi più puliti, senza il nome della serie ripetuto\n• Errori più chiari: il messaggio mostra il codice del problema"
 }
